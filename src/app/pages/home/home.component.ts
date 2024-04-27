@@ -8,9 +8,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrl: './home.component.css'
 })
 export class homeComponent implements OnInit {
-  ngOnInit() {
-    console.log('iniitial');
-    
+  ngOnInit() {    
   }
   
 }
