@@ -1,4 +1,13 @@
 .transparent-header {
-    background-color: transparent!important;
-    z-index: 1024;
-  }
+  background-color: transparent !important;
+  z-index: 1024;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-collapse {
+  flex-grow: unset;
+}
